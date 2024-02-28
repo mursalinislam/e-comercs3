@@ -1,0 +1,314 @@
+.crepe{
+    background-color: #E1FFE4 ;
+    width: 230px;
+    height: 260px;
+    border-radius: 10px;
+   
+}
+.container{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+  
+  
+ 
+}
+img{
+    position: relative;
+    width: 175px;
+    height: 129px;
+    left: 60px;
+  
+
+}
+.h{
+  display: inline-block;
+  margin: 0%;
+  font-size: 13px;
+  font-weight: 550;
+}
+
+
+*{
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15.73px;
+}
+.price{
+    font-weight: 900;
+    font-size: larger;
+    margin-top: 8px;
+   
+    justify-content: left;
+    margin-left: 6px;
+    
+  }
+.disprice{
+    
+        text-decoration: line-through;
+        color: #888;
+       
+        
+        
+     
+      
+}
+      
+
+  
+ 
+  .finalprice {
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+    margin-left: 6px;
+    margin-top: 10px;
+  }
+  .discounted-price {
+    color: #04BB00;
+   
+   
+  }
+  .offinfo{
+    
+   width: 64px;
+   height: 25px;
+   position: absolute;
+   top: 10px;
+   display: inline-block;
+   
+  
+  
+ 
+  border-radius: 15px;
+  background: #04BB00;
+    }
+.rating{
+    font-weight: 700;
+    position: absolute;
+    top: -8px
+    ;
+    right: 20px;
+    color: #E1FFE4;
+    font-size: 16px;
+    width: 26px;
+    height: 30px;
+  
+  }
+  
+.product-name {
+  margin: 0px;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 550;
+
+  
+}
+
+.product-brand {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 550;
+}
+.Spronsored{
+  color: #888;
+  font-size: medium;
+  
+}
+.nametwo{
+  display: inline-block;
+  margin: 0px;
+  font-size: 13px;
+  font-weight: 550;
+  
+}
+.info{
+  margin-left: 6px;
+}
+.product-details{
+  margin-left: 6px;
+}
+/* shoes */
+
+.Spronsoredtwo{
+  font-size: 13px;
+  color: #888;
+  margin-left: 6px;
+
+}
+.image{
+
+  left: 20px;
+  top: 20px;
+}
+.crepetwo{
+  background-color:#FFEBE0;
+  ;
+  width: 230px;
+  height: 260px;
+  border: ;
+  border-radius: 10px;
+}
+.offinfotwo{
+  width: 64px;
+  height: 25px;
+  position: absolute;
+  top: 9px;
+  display: inline-block;
+  
+ 
+ 
+
+ border-radius: 15px;
+ background: #04BB00
+}
+.ratingtwo{
+  font-weight: 700;
+  position: absolute;
+  top: -8px
+  ;
+  right: 20px;
+  color: #E1FFE4;
+  font-size: 16px;
+  width: 26px;
+  height: 30px;
+
+}
+
+
+/* earphone */
+.three{
+  left: 20px;
+ 
+}
+.offinfothree{
+  width: 64px;
+  height: 25px;
+  position: absolute;
+  top: 9px;
+  display: inline-block;
+  
+ 
+ 
+
+ border-radius: 15px;
+ background: #04BB00
+}
+
+.ratingthree{
+  font-weight: 700;
+  position: absolute;
+  top: -8px
+  ;
+  right: 20px;
+  color: #E1FFE4;
+  font-size: 16px;
+  width: 26px;
+  height: 3
+
+}
+.crepet{ background-color: #F0F0F0;
+  width: 230px;
+  height: 260px;
+  border-radius: 10px;
+ 
+
+}
+/* chair */
+.chair{
+  width: 71.18px;
+  height: 119px;
+  margin-top: 20px;
+  right: 19px;
+
+
+  
+
+
+}
+.offinfothre{
+  width: 64px;
+  height: 25px;
+  position: absolute;
+  top: 10px;
+  display: inline-block;
+  
+ 
+ 
+
+ border-radius: 15px;
+ background: #04BB00
+
+}
+.ratingthre{
+  font-weight: 700;
+  position: absolute;
+  top: -8px
+  ;
+  right: 20px;
+  color: #E1FFE4;
+  font-size: 16px;
+  width: 26px;
+  height: 3
+
+
+
+}
+.crepetw{
+  background-color:#FFF1BF;
+  ;
+  width: 230px;
+  height: 260px;
+  border: ;
+  border-radius: 10px;
+  
+  
+ 
+}
+.pot{
+  width: 107.99px;
+  height: 119px;
+  top: 12px;
+
+}
+.crepeth{
+  background-color: #FFECED;
+  width: 230px;
+  height: 260px;
+  border-radius: 10px;
+ 
+
+}
+.offinfot{
+  width: 64px;
+  height: 25px;
+  position: absolute;
+  top:  10px;
+  left: 1535px;
+ 
+  display: inline-block;
+  
+ 
+}
+.ratingt{
+  font-weight: 700;
+  position: absolute;
+  top: -8px
+  ;
+  right: 9px;
+  color: #04BB00;
+  font-size: 16px;
+  width: 26px;
+  height: 3px
+
+
+}
+
+
+
+  
+
+    
